@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "ali-derper",
+      "RegionName": "Aliyun Derper",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 32001,
+          "HostName": "8.140.173.90",
+          "IPv4": "8.140.173.90",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
